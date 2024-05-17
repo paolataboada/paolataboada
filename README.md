@@ -9,6 +9,8 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href = "mailto:taboadapaola3@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"  /></a>
+  <a href="https://paolataboada.github.io/Portafolio/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="linkedin"/></a>
 </p>
 
 <p align='center'> Hi! My name is Paola. Thank you for taking the time to view my GitHub Profile :smile: </p>
@@ -50,4 +52,4 @@
 <h2>My Latest Updates 🚀</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolataboada&repo=conversor-de-moneda&theme=radical)](https://github.com/paolataboada/conversor-de-moneda)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolataboada&repo=crud-nodejs&theme=radical)](https://github.com/paolataboada/crud-nodejs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolataboada&repo=crud-nodejs&theme=radical)](https://github.com/paolataboada/conversor-de-moneda)
