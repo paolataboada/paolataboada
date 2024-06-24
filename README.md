@@ -5,11 +5,11 @@
     <img width="200" src="https://github.com/paolataboada/paolataboada/blob/main/emoji-paola.jpg">
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/paolataboada" target="blank">
+  <a href="https://www.linkedin.com/in/paolataboada" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href = "mailto:taboadapaola3@gmail.com" target="blank">
+  <a href = "mailto:taboadapaola3@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"  /></a>
-  <a href="https://portfolio-paolataboada-git-master-paolataboadas-projects.vercel.app/" target="blank">
+  <a href="https://portfolio-paolataboada-git-master-paolataboadas-projects.vercel.app/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="linkedin"/></a>
 </p>
 
