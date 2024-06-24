@@ -9,7 +9,7 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href = "mailto:taboadapaola3@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"  /></a>
-  <a href="https://paolataboada.github.io/Portafolio/" target="blank">
+  <a href="https://portfolio-paolataboada-git-master-paolataboadas-projects.vercel.app/" target="blank">
     <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="linkedin"/></a>
 </p>
 
